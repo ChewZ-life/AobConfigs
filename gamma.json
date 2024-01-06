@@ -5,7 +5,8 @@
             "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
             "retweetId": "1743185031995232384",
             "retweetText": "Dive into @AlphaorBeta_ETH",
-            "questType": "LIMITED_OFFER_RETWEET_2"
+            "questType": "LIMITED_OFFER_RETWEET_2",
+            "rewardType": "QUEST_TWITTER_RETWEET_2"
         }
     },
     "banners": {
