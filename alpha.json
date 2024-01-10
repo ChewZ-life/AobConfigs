@@ -7,6 +7,29 @@
             "retweetText": "be a gad damn man",
             "questType": "LIMITED_OFFER_RETWEET_2",
             "rewardType": "QUEST_TWITTER_RETWEET_2"
+        },
+        "luckyDraw": {
+            "weeklyDraw": {
+                "startTime": 1704672000000,
+                "endTime": 1706659200000,
+                "periodDays": 7,
+                "targetPollVoteCnt": 5,
+                "targetPollCreateCnt": 1
+            },
+            "biWeeklyDraw": {
+                "startTime": 1704672000000,
+                "endTime": 1706659200000,
+                "periodDays": 14,
+                "targetPollVoteCnt": 20,
+                "targetPollCreateCnt": 3
+            },
+            "oneTimeDraw": {
+                "startTime": 1704672000000,
+                "endTime": 1706659200000,
+                "periodDays": 365,
+                "targetPollVoteCnt": 50,
+                "targetPollCreateCnt": 5
+            }
         }
     },
     "banners": {
