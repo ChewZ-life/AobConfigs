@@ -13,22 +13,22 @@
                 "startTime": 1704672000000,
                 "endTime": 1706659200000,
                 "periodDays": 7,
-                "targetPollVoteCnt": 5,
-                "targetPollCreateCnt": 1
+                "targetPollVoteCount": 5,
+                "targetPollCreateCount": 1
             },
             "biWeeklyDraw": {
                 "startTime": 1704672000000,
                 "endTime": 1706659200000,
                 "periodDays": 14,
-                "targetPollVoteCnt": 20,
-                "targetPollCreateCnt": 3
+                "targetPollVoteCount": 20,
+                "targetPollCreateCount": 3
             },
             "oneTimeDraw": {
                 "startTime": 1704672000000,
                 "endTime": 1706659200000,
                 "periodDays": 365,
-                "targetPollVoteCnt": 50,
-                "targetPollCreateCnt": 5
+                "targetPollVoteCount": 50,
+                "targetPollCreateCount": 5
             }
         }
     },
