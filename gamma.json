@@ -1,7 +1,7 @@
 {
     "myTasks": {
         "limitedTimeOffer": {
-            "visible": false,
+            "visible": true,
             "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
             "retweetId": "1744262292387369174",
             "retweetText": "Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle",
