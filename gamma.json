@@ -7,6 +7,29 @@
             "retweetText": "Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle",
             "questType": "LIMITED_OFFER_RETWEET_2",
             "rewardType": "QUEST_TWITTER_RETWEET_2"
+        },
+        "luckyDraw": {
+            "weeklyDraw": {
+                "startTime": 1704902400000,
+                "endTime": 1706659200000,
+                "periodDays": 7,
+                "targetPollVoteCount": 5,
+                "targetPollCreateCount": 1
+            },
+            "biWeeklyDraw": {
+                "startTime": 1704902400000,
+                "endTime": 1706659200000,
+                "periodDays": 14,
+                "targetPollVoteCount": 20,
+                "targetPollCreateCount": 3
+            },
+            "oneTimeDraw": {
+                "startTime": 1704902400000,
+                "endTime": 1706659200000,
+                "periodDays": 365,
+                "targetPollVoteCount": 50,
+                "targetPollCreateCount": 5
+            }
         }
     },
     "banners": {
