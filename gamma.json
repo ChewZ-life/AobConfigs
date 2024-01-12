@@ -11,22 +11,22 @@
         "luckyDraw": {
             "weeklyDraw": {
                 "startTime": 1704902400000,
-                "endTime": 1706659200000,
+                "endTime": 1712505600000,
                 "periodDays": 7,
                 "targetPollVoteCount": 5,
                 "targetPollCreateCount": 1
             },
             "biWeeklyDraw": {
                 "startTime": 1704902400000,
-                "endTime": 1706659200000,
+                "endTime": 1712505600000,
                 "periodDays": 14,
                 "targetPollVoteCount": 20,
                 "targetPollCreateCount": 3
             },
             "oneTimeDraw": {
                 "startTime": 1704902400000,
-                "endTime": 1706659200000,
-                "periodDays": 365,
+                "endTime": 1712505600000,
+                "periodDays": 88,
                 "targetPollVoteCount": 50,
                 "targetPollCreateCount": 5
             }
