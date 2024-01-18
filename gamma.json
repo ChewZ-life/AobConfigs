@@ -33,6 +33,6 @@
         }
     },
     "banners": {
-        "expiredAt": 0
+        "expiredAt": 1705622400000
     }
 }
