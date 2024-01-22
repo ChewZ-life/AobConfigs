@@ -11,7 +11,7 @@
         "luckyDraw": {
             "weeklyDraw": {
                 "startTime": 1704902400000,
-                "endTime": 1712505600000,
+                "endTime": 0,
                 "periodDays": 7,
                 "targetPollVoteCount": 5,
                 "targetPollCreateCount": 1
