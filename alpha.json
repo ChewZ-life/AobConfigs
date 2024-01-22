@@ -51,6 +51,10 @@
           { "address": "0x10C93C3Afc75E414a88892b338e1391aE0d22DB1" },
           { "address": "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14" },
           { "address": "0x336d661CFF0E7a08085cC173A6d0125659e7deeA" },
+          {
+            "address": "0x3042Be66B94D97ec1376C8192e416d9D6237c4D5",
+            "tx": "mock-tx-hash"
+          },
           { "address": "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3" }
         ]
       },
