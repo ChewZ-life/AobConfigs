@@ -42,16 +42,17 @@
         "prizeAmount": "20",
         "prizeUnit": "MNT",
         "walletList": [
-          "0xbF1824a3A7a9763405A8c413E77C0205F979614A",
-          "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b",
-          "0xb3AEe9e08C333D59406e56959cd63727Cb5aaE5F",
-          "0x346cFF342Df55935810DC3051AC6f43CEd4855Df",
-          "0xad5eBd3d5669650F9153A8135C4a5566f6d3BD37",
-          "0x05AE9bBC01127c1e8625C7Ed27d4B055B9dB06c8",
-          "0x10C93C3Afc75E414a88892b338e1391aE0d22DB1",
-          "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14",
-          "0x336d661CFF0E7a08085cC173A6d0125659e7deeA",
-          "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3"
+          { "address": "0xbF1824a3A7a9763405A8c413E77C0205F979614A" },
+          { "address": "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b" },
+          { "address": "0xb3AEe9e08C333D59406e56959cd63727Cb5aaE5F" },
+          { "address": "0x346cFF342Df55935810DC3051AC6f43CEd4855Df" },
+          { "address": "0xad5eBd3d5669650F9153A8135C4a5566f6d3BD37" },
+          { "address": "0x05AE9bBC01127c1e8625C7Ed27d4B055B9dB06c8" },
+          { "address": "0x10C93C3Afc75E414a88892b338e1391aE0d22DB1" },
+          { "address": "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14" },
+          { "address": "0x336d661CFF0E7a08085cC173A6d0125659e7deeA" },
+          { "address": "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3" },
+          { "address": "0x3042Be66B94D97ec1376C8192e416d9D6237c4D5" }
         ]
       },
       {
@@ -59,28 +60,30 @@
         "prizeAmount": "50",
         "prizeUnit": "MNT",
         "walletList": [
-          "0xF3a66a7804D1177D28a785f401a3E0B3f8d4673b",
-          "0xA027774c9600F62BfE61727e12a037a427cA01D9",
-          "0x3EdE755dC9a4B820dD7288Ff2FaBf807cd7dCf92",
-          "0x911025109637326c6786C6d12eB76Fd9961c97C7"
+          { "address": "0xF3a66a7804D1177D28a785f401a3E0B3f8d4673b" }fi
+          { "address": "0xA027774c9600F62BfE61727e12a037a427cA01D9" },
+          { "address": "0x3EdE755dC9a4B820dD7288Ff2FaBf807cd7dCf92" },
+          { "address": "0x911025109637326c6786C6d12eB76Fd9961c97C7" }
         ]
       },
       {
         "prizePrefix": "$",
         "prizeAmount": "100",
         "prizeUnit": "MNT",
-        "walletList": ["0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2"]
+        "walletList": [
+          { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" }
+        ]
       },
       {
         "prizePrefix": "",
         "prizeAmount": "1",
         "prizeUnit": "abETH",
         "walletList": [
-          "0x0422C4352a0E482c2e77dB5C1ddE007216777248",
-          "0x38CEe69B5EB9D18F0BE140A7d758277B211c0483",
-          "0xd0d81EF2cbd30e8dC39d6aD063E82f554A2c9630",
-          "0x085cBE1374e79512eA24C51d9065b257101F2646",
-          "0x81e77c22B4C2d6eb068698d8b542E62b4f0eCFF0"
+          { "address": "0x0422C4352a0E482c2e77dB5C1ddE007216777248" },
+          { "address": "0x38CEe69B5EB9D18F0BE140A7d758277B211c0483" },
+          { "address": "0xd0d81EF2cbd30e8dC39d6aD063E82f554A2c9630" },
+          { "address": "0x085cBE1374e79512eA24C51d9065b257101F2646" },
+          { "address": "0x81e77c22B4C2d6eb068698d8b542E62b4f0eCFF0" }
         ]
       }
     ]
