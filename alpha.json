@@ -35,7 +35,7 @@
   "banners": {
     "expiredAt": 1705708800000
   },
-  "DrawWinners": {
+  "drawWinners": {
     "weeklyDraw#20240111_20240118": [
       {
         "prizePrefix": "$",
