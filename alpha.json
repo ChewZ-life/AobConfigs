@@ -70,7 +70,11 @@
         "prizeAmount": "100",
         "prizeUnit": "MNT",
         "walletList": [
-          { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" }
+          { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" },
+          {
+            "address": "0x3fc590E1139289151FCde436864313c151F10a4b",
+            "tx": "0x28a72a280c555eb1bf4a92ab5c3fdaf3c8b224e2491249edbb373180dfad37f7"
+          }
         ]
       },
       {
@@ -83,7 +87,6 @@
           { "address": "0xd0d81EF2cbd30e8dC39d6aD063E82f554A2c9630" },
           { "address": "0x085cBE1374e79512eA24C51d9065b257101F2646" },
           { "address": "0x81e77c22B4C2d6eb068698d8b542E62b4f0eCFF0" },
-          { "address": "0x3fc590E1139289151FCde436864313c151F10a4b", "tx": "0x28a72a280c555eb1bf4a92ab5c3fdaf3c8b224e2491249edbb373180dfad37f7" }
         ]
       }
     ]
