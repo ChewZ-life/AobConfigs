@@ -33,7 +33,8 @@
     },
     "season2Retweet": {
       "retweetId": "1745436964969726071",
-      "retweetText": "🌟 Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle to redefine engagement in the opinion economy! Get ready for new features, strategic partnerships, and more as we transform user engagement with our Entertainment DApp."
+      "retweetPartText": "Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle",
+      "retweetFullText": "🌟 Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle to redefine engagement in the opinion economy! Get ready for new features, strategic partnerships, and more as we transform user engagement with our Entertainment DApp."
     }
   },
   "banners": {
