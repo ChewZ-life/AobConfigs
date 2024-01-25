@@ -76,10 +76,7 @@
         "prizeAmount": "100",
         "prizeUnit": "MNT",
         "walletList": [
-          { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" },
-          {
-            "address": "0x3fc590E1139289151FCde436864313c151F10a4b"
-          }
+          { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" }
         ]
       },
       {
