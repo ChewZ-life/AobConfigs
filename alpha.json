@@ -72,8 +72,7 @@
         "walletList": [
           { "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2" },
           {
-            "address": "0x3fc590E1139289151FCde436864313c151F10a4b",
-            "tx": "0x28a72a280c555eb1bf4a92ab5c3fdaf3c8b224e2491249edbb373180dfad37f7"
+            "address": "0x3fc590E1139289151FCde436864313c151F10a4b"
           }
         ]
       },
