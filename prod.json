@@ -32,14 +32,14 @@
             }
         },
         "season2Retweet": {
-            "visible": false,
-            "retweetId": "1750426154417455483",
-            "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 26th - Feb 8th",
-            "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 26th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
+            "visible": true,
+            "retweetId": "1750734097893523857",
+            "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th",
+            "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
         }
     },
     "banners": {
-        "expiredAt": 2705622400000
+        "expiredAt": 1707476400000
     },
     "drawWinners": {
         "weeklyDraw#20240111_20240118": [
