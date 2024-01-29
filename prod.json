@@ -32,6 +32,7 @@
             }
         },
         "season2Retweet": {
+            "expired": true,
             "visible": true,
             "retweetId": "1750734097893523857",
             "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th",
