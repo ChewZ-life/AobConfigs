@@ -53,7 +53,7 @@
     },
     "voteQuestOne": {
       "expired": false,
-      "questStartDate": 1706580000000,
+      "questStartTime": 1706580000000,
       "rewards": [
         {
           "amount": 0.2,
@@ -63,7 +63,7 @@
     },
     "voteQuestTwo": {
       "expired": false,
-      "questStartDate": 1706580000000,
+      "questStartTime": 1706580000000,
       "rewards": [
         {
           "amount": 1,
