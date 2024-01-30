@@ -44,7 +44,7 @@
     "entryTask": {
       "expired": false,
       "visible": true,
-      "revision": 1,
+      "revision": "1",
       "rewards": [
         {
           "amount": 0.2,
@@ -58,12 +58,12 @@
     },
     "voteQuestOne": {
       "expired": false,
-      "revision": 1,
+      "revision": "1",
       "points": 0.2
     },
     "voteQuestTwo": {
       "expired": false,
-      "revision": 1,
+      "revision": "1",
       "points": 1
     }
   },
