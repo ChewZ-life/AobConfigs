@@ -40,7 +40,7 @@
     }
   },
   "season2RenewedTask": {
-    "voteQuestStartTime": 1706580000000,
+    "voteQuestStartTime": 2706580000000,
     "entryTask": {
       "expired": false,
       "visible": true,
