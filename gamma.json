@@ -42,7 +42,7 @@
   "season2RenewedTask": {
     "voteQuestStartTime": 1706580000000,
     "entryTask": {
-      "expired": true,
+      "expired": false,
       "visible": true,
       "revision": "1",
       "rewards": [
@@ -57,12 +57,12 @@
       ]
     },
     "voteQuestOne": {
-      "expired": true,
+      "expired": false,
       "revision": "1",
       "points": 0.2
     },
     "voteQuestTwo": {
-      "expired": true,
+      "expired": false,
       "revision": "1",
       "points": 1
     }
