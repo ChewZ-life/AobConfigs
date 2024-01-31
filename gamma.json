@@ -59,7 +59,7 @@
     "voteQuestOne": {
       "expired": false,
       "revision": "1",
-      "points": 0.2
+      "points": 0.5
     },
     "voteQuestTwo": {
       "expired": false,
