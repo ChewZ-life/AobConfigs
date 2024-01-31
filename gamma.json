@@ -39,6 +39,34 @@
       "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 26th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
     }
   },
+  "season2RenewedTask": {
+    "voteQuestStartTime": 1706580000000,
+    "entryTask": {
+      "expired": true,
+      "visible": true,
+      "revision": "1",
+      "rewards": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        },
+        {
+          "amount": 0.2,
+          "unit": "abETH"
+        }
+      ]
+    },
+    "voteQuestOne": {
+      "expired": true,
+      "revision": "1",
+      "points": 0.2
+    },
+    "voteQuestTwo": {
+      "expired": true,
+      "revision": "1",
+      "points": 1
+    }
+  },
   "banners": {
     "expiredAt": 2705708800000
   },
