@@ -1,165 +1,165 @@
 {
-    "myTasks": {
-        "limitedTimeOffer": {
-            "visible": false,
-            "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
-            "retweetId": "1745491469170041058",
-            "retweetText": "Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle",
-            "questType": "LIMITED_OFFER_RETWEET_2",
-            "rewardType": "QUEST_TWITTER_RETWEET_2"
-        },
-        "luckyDraw": {
-            "weeklyDraw": {
-                "startTime": 1704902400000,
-                "endTime": 1705507200000,
-                "periodDays": 7,
-                "targetPollVoteCount": 5,
-                "targetPollCreateCount": 1
-            },
-            "biWeeklyDraw": {
-                "startTime": 1704902400000,
-                "endTime": 1712505600000,
-                "periodDays": 14,
-                "targetPollVoteCount": 20,
-                "targetPollCreateCount": 3
-            },
-            "oneTimeDraw": {
-                "startTime": 1704902400000,
-                "endTime": 1712505600000,
-                "periodDays": 88,
-                "targetPollVoteCount": 50,
-                "targetPollCreateCount": 5
-            }
-        },
-        "season2Retweet": {
-            "expired": true,
-            "visible": false,
-            "retweetId": "1750734097893523857",
-            "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th",
-            "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
-        }
+  "myTasks": {
+    "limitedTimeOffer": {
+      "visible": false,
+      "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
+      "retweetId": "1745491469170041058",
+      "retweetText": "Exciting announcement: @AlphaOrBeta has secured a strategic ecosystem grant from Mantle Network @0xMantle",
+      "questType": "LIMITED_OFFER_RETWEET_2",
+      "rewardType": "QUEST_TWITTER_RETWEET_2"
     },
-    "season2RenewedTask": {
-        "voteQuestStartTime": 1706580000000,
-        "entryTask": {
-            "expired": false,
-            "visible": true,
-            "revision": "1",
-            "rewards": [
-                {
-                    "amount": 0.2,
-                    "unit": "MNT"
-                },
-                {
-                    "amount": 0.2,
-                    "unit": "abETH"
-                }
-            ]
-        },
-        "voteQuestOne": {
-            "expired": false,
-            "revision": "1",
-            "points": 0.5
-        },
-        "voteQuestTwo": {
-            "expired": false,
-            "revision": "1",
-            "points": 1
-        }
+    "luckyDraw": {
+      "weeklyDraw": {
+        "startTime": 1704902400000,
+        "endTime": 1705507200000,
+        "periodDays": 7,
+        "targetPollVoteCount": 5,
+        "targetPollCreateCount": 1
+      },
+      "biWeeklyDraw": {
+        "startTime": 1704902400000,
+        "endTime": 1712505600000,
+        "periodDays": 14,
+        "targetPollVoteCount": 20,
+        "targetPollCreateCount": 3
+      },
+      "oneTimeDraw": {
+        "startTime": 1704902400000,
+        "endTime": 1712505600000,
+        "periodDays": 88,
+        "targetPollVoteCount": 50,
+        "targetPollCreateCount": 5
+      }
     },
-    "banners": {
-        "expiredAt": 1707476400000
-    },
-    "drawWinners": {
-        "weeklyDraw#20240111_20240118": [
-            {
-                "prizePrefix": "$",
-                "prizeAmount": "20",
-                "prizeUnit": "MNT",
-                "walletList": [
-                    {
-                        "address": "0xbF1824a3A7a9763405A8c413E77C0205F979614A"
-                    },
-                    {
-                        "address": "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b"
-                    },
-                    {
-                        "address": "0xb3AEe9e08C333D59406e56959cd63727Cb5aaE5F"
-                    },
-                    {
-                        "address": "0x346cFF342Df55935810DC3051AC6f43CEd4855Df"
-                    },
-                    {
-                        "address": "0xad5eBd3d5669650F9153A8135C4a5566f6d3BD37"
-                    },
-                    {
-                        "address": "0x05AE9bBC01127c1e8625C7Ed27d4B055B9dB06c8"
-                    },
-                    {
-                        "address": "0x10C93C3Afc75E414a88892b338e1391aE0d22DB1"
-                    },
-                    {
-                        "address": "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14"
-                    },
-                    {
-                        "address": "0x336d661CFF0E7a08085cC173A6d0125659e7deeA"
-                    },
-                    {
-                        "address": "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3"
-                    }
-                ]
-            },
-            {
-                "prizePrefix": "$",
-                "prizeAmount": "50",
-                "prizeUnit": "MNT",
-                "walletList": [
-                    {
-                        "address": "0xF3a66a7804D1177D28a785f401a3E0B3f8d4673b"
-                    },
-                    {
-                        "address": "0xA027774c9600F62BfE61727e12a037a427cA01D9"
-                    },
-                    {
-                        "address": "0x3EdE755dC9a4B820dD7288Ff2FaBf807cd7dCf92"
-                    },
-                    {
-                        "address": "0x911025109637326c6786C6d12eB76Fd9961c97C7"
-                    }
-                ]
-            },
-            {
-                "prizePrefix": "$",
-                "prizeAmount": "100",
-                "prizeUnit": "MNT",
-                "walletList": [
-                    {
-                        "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2"
-                    }
-                ]
-            },
-            {
-                "prizePrefix": "",
-                "prizeAmount": "1",
-                "prizeUnit": "abETH",
-                "walletList": [
-                    {
-                        "address": "0x0422C4352a0E482c2e77dB5C1ddE007216777248"
-                    },
-                    {
-                        "address": "0x38CEe69B5EB9D18F0BE140A7d758277B211c0483"
-                    },
-                    {
-                        "address": "0xd0d81EF2cbd30e8dC39d6aD063E82f554A2c9630"
-                    },
-                    {
-                        "address": "0x085cBE1374e79512eA24C51d9065b257101F2646"
-                    },
-                    {
-                        "address": "0x81e77c22B4C2d6eb068698d8b542E62b4f0eCFF0"
-                    }
-                ]
-            }
-        ]
+    "season2Retweet": {
+      "expired": true,
+      "visible": false,
+      "retweetId": "1750734097893523857",
+      "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th",
+      "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
     }
+  },
+  "season2RenewedTask": {
+    "voteQuestStartTime": 1706536800000,
+    "entryTask": {
+      "expired": false,
+      "visible": true,
+      "revision": "1",
+      "rewards": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        },
+        {
+          "amount": 0.2,
+          "unit": "abETH"
+        }
+      ]
+    },
+    "voteQuestOne": {
+      "expired": false,
+      "revision": "1",
+      "points": 0.5
+    },
+    "voteQuestTwo": {
+      "expired": false,
+      "revision": "1",
+      "points": 1
+    }
+  },
+  "banners": {
+    "expiredAt": 1707476400000
+  },
+  "drawWinners": {
+    "weeklyDraw#20240111_20240118": [
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "20",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0xbF1824a3A7a9763405A8c413E77C0205F979614A"
+          },
+          {
+            "address": "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b"
+          },
+          {
+            "address": "0xb3AEe9e08C333D59406e56959cd63727Cb5aaE5F"
+          },
+          {
+            "address": "0x346cFF342Df55935810DC3051AC6f43CEd4855Df"
+          },
+          {
+            "address": "0xad5eBd3d5669650F9153A8135C4a5566f6d3BD37"
+          },
+          {
+            "address": "0x05AE9bBC01127c1e8625C7Ed27d4B055B9dB06c8"
+          },
+          {
+            "address": "0x10C93C3Afc75E414a88892b338e1391aE0d22DB1"
+          },
+          {
+            "address": "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14"
+          },
+          {
+            "address": "0x336d661CFF0E7a08085cC173A6d0125659e7deeA"
+          },
+          {
+            "address": "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "50",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0xF3a66a7804D1177D28a785f401a3E0B3f8d4673b"
+          },
+          {
+            "address": "0xA027774c9600F62BfE61727e12a037a427cA01D9"
+          },
+          {
+            "address": "0x3EdE755dC9a4B820dD7288Ff2FaBf807cd7dCf92"
+          },
+          {
+            "address": "0x911025109637326c6786C6d12eB76Fd9961c97C7"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "100",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0xF129ebB070EaACA17b7399b3a83ad34AEfd0E3d2"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "",
+        "prizeAmount": "1",
+        "prizeUnit": "abETH",
+        "walletList": [
+          {
+            "address": "0x0422C4352a0E482c2e77dB5C1ddE007216777248"
+          },
+          {
+            "address": "0x38CEe69B5EB9D18F0BE140A7d758277B211c0483"
+          },
+          {
+            "address": "0xd0d81EF2cbd30e8dC39d6aD063E82f554A2c9630"
+          },
+          {
+            "address": "0x085cBE1374e79512eA24C51d9065b257101F2646"
+          },
+          {
+            "address": "0x81e77c22B4C2d6eb068698d8b542E62b4f0eCFF0"
+          }
+        ]
+      }
+    ]
+  }
 }
