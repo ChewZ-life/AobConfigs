@@ -252,7 +252,7 @@
       },
       {
         "prizePrefix": "$",
-        "prizeAmount": "50",
+        "prizeAmount": "200",
         "prizeUnit": "MNT",
         "walletList": [
           {"address": "0x467Bf7c361427407FA58a9C47d0e62C673566Cba"}
