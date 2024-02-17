@@ -213,11 +213,12 @@
             "address": "0xFAb4F829E5c0C5CB76b9ADDa11050D3b852ea6F4"
           }
         ]
-      },{
+      },
+      {
         "prizePrefix": "$",
         "prizeAmount": "50",
         "prizeUnit": "MNT",
-        "walletList":[
+        "walletList": [
           {
             "address": "0x192F166Bcb3E07A84A7fdB9101F2d0C1f2792f93"
           },
@@ -255,7 +256,9 @@
         "prizeAmount": "200",
         "prizeUnit": "MNT",
         "walletList": [
-          {"address": "0x467Bf7c361427407FA58a9C47d0e62C673566Cba"}
+          {
+            "address": "0x467Bf7c361427407FA58a9C47d0e62C673566Cba"
+          }
         ]
       },
       {
@@ -292,6 +295,144 @@
           },
           {
             "address": "0xF78D2a0D33379686082CdB0c7b4541De9165d7b8"
+          }
+        ]
+      }
+    ],
+    "biWeeklyDraw#20240125_20240208": [
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "20",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0x258f4e8A9F193B9f04A4C3428d825D9C0A1Fa3c2"
+          },
+          {
+            "address": "0xCAE9889ed7D1eCA64e0Dbe114b168DEB9deFf095"
+          },
+          {
+            "address": "0x67D0aed327ddeff71d6Ae67028c0B7Aa7B934CA4"
+          },
+          {
+            "address": "0xe1a072503F65556329E8f1657d465200AcA8AcC7"
+          },
+          {
+            "address": "0x97A9ccC2D019900Bb2422e6b8168b4654CCBf242"
+          },
+          {
+            "address": "0xFE85d16BdADD99CA8823ecdf29b6Fe8049B1d136"
+          },
+          {
+            "address": "0x4319500b08017c40711B58CDBE0dF452D87021ca"
+          },
+          {
+            "address": "0xE8ECed7E140482546F5eDd7508E0EECbb86175F2"
+          },
+          {
+            "address": "0x17703736D988ae59378403c00ebcCb782fC61931"
+          },
+          {
+            "address": "0x1d32C271d4c73a1F53ae0bc0Ae1f5E7Bf0226e46"
+          },
+          {
+            "address": "0x5701a3ad2EE97E14753645a939F4bdE7c1B1d3dD"
+          },
+          {
+            "address": "0x2236b805cC6AA7a9f692fD20d470f08919813D3f"
+          },
+          {
+            "address": "0xF7894F08f816EC2741563cb63861DA6E63a3d8dD"
+          },
+          {
+            "address": "0x94666968515012b19dEeeB149D76C74F72ae0AE6"
+          },
+          {
+            "address": "0x09fa85D29AD0b2BfF76DAb327d8E52c03a4EA2De"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "50",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0x49f9EC1774AdCb6463fd5f4bB868592bea5793e2"
+          },
+          {
+            "address": "0x5fAE23bF770BA55296745a1ebb426BcCCdcC39F3"
+          },
+          {
+            "address": "0x63c98C683D706356463e5C91701f67396b3475C4"
+          },
+          {
+            "address": "0x75E2a63965aF980F6777BC4eCaED49F6f33dB698"
+          },
+          {
+            "address": "0xc2e157397DF935fd8054B0DAba4e7CbbD78473Ef"
+          },
+          {
+            "address": "0xb3389F3eDacDfD48603F2F06895A2B2A8a96952f"
+          },
+          {
+            "address": "0x09EC5b296210fAb2888f54a0A54B952A5441234E"
+          },
+          {
+            "address": "0x80b3D7735bbaa17B27D45Acc17c3c233c32f4a59"
+          },
+          {
+            "address": "0x6EE221BAaE4502309b73e134e23C3DC3a30eb3C3"
+          },
+          {
+            "address": "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "200",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0x8846a515E0E7F2D446Eb5F05e5590f08281345d9"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "",
+        "prizeAmount": "1",
+        "prizeUnit": "abETH",
+        "walletList": [
+          {
+            "address": "0xF78D2a0D33379686082CdB0c7b4541De9165d7b8"
+          },
+          {
+            "address": "0x9714263df9aB91bBED88CF87c51B17e6CA18D843"
+          },
+          {
+            "address": "0x5b25DCbb82B16319656607926b28B04a0292f6eA"
+          },
+          {
+            "address": "0x9bC7F7Aa4b4395391089dA8588fFb0842b5483A6"
+          },
+          {
+            "address": "0x470BDB020D9d497630bdBEd5ebF420232C17B670"
+          },
+          {
+            "address": "0x38B33182BdDD13eA757b8B3b7162B377B96F0874"
+          },
+          {
+            "address": "0x0341EEaf09CDe79127aC7779BbE8CeE95aAb33Ad"
+          },
+          {
+            "address": "0x862A1704618Ddf3d46c6887D4355B4dac4f7355D"
+          },
+          {
+            "address": "0x4e365b66BFFd48be5161237f31CfD81CEEeb0585"
+          },
+          {
+            "address": "0xEbfCdAfebb8114aB604332a32a4A07EAA9ED5Fc5"
           }
         ]
       }
