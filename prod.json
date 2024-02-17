@@ -160,6 +160,141 @@
           }
         ]
       }
+    ],
+    "biWeeklyDraw#20240111_20240125": [
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "20",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {
+            "address": "0xfb1274DF8B85aF553B80b6376282B644be901c19"
+          },
+          {
+            "address": "0x63F360b45Ac29B795e092A0C98B439A845D54886"
+          },
+          {
+            "address": "0xA37aDAda46331EB0FF6B2886c7f4c5549d7395D4"
+          },
+          {
+            "address": "0x97A9ccC2D019900Bb2422e6b8168b4654CCBf242"
+          },
+          {
+            "address": "0x7751cb37a8B3Be9b5d679Cbe87F81e333a80F2Cd"
+          },
+          {
+            "address": "0x6529770A5c58CA859558670Cf98171F600c48783"
+          },
+          {
+            "address": "0x2302b94B6da716F72d7a2921904AC37aD7123781"
+          },
+          {
+            "address": "0x660bC7Cb296eAD8268bd1CC9378b0f8eb1196b58"
+          },
+          {
+            "address": "0x47f7E1bB586F4EC051E1d8236e3868e55E5E3b5c"
+          },
+          {
+            "address": "0x8DDBA2FDbfa8542BC52340b74ECa451F180c8Cec"
+          },
+          {
+            "address": "0x470BDB020D9d497630bdBEd5ebF420232C17B670"
+          },
+          {
+            "address": "0x8370B535A74cD7e057E5ff99E78e2E3D600Dc06A"
+          },
+          {
+            "address": "0xF771Ef93eCc4545C79c95d6b82a742099a9cAb99"
+          },
+          {
+            "address": "0x80b3D7735bbaa17B27D45Acc17c3c233c32f4a59"
+          },
+          {
+            "address": "0xFAb4F829E5c0C5CB76b9ADDa11050D3b852ea6F4"
+          }
+        ]
+      },{
+        "prizePrefix": "$",
+        "prizeAmount": "50",
+        "prizeUnit": "MNT",
+        "walletList":[
+          {
+            "address": "0x192F166Bcb3E07A84A7fdB9101F2d0C1f2792f93"
+          },
+          {
+            "address": "0xC9b6C18D70a41ae8b9EB0b0238dB06364C6752FA"
+          },
+          {
+            "address": "0x8DD0137f8d7d1ccEc0F232Ae179eeD819FE7f3d5"
+          },
+          {
+            "address": "0x3847608ed2bDbFb2DDCb5DE3c193049A7143EDB3"
+          },
+          {
+            "address": "0x63c98C683D706356463e5C91701f67396b3475C4"
+          },
+          {
+            "address": "0xE8ECed7E140482546F5eDd7508E0EECbb86175F2"
+          },
+          {
+            "address": "0x98b833C4eC4464ee4C8CA452cADaA1159F60f2f0"
+          },
+          {
+            "address": "0xCD7e9eB2EC308091bE3f04Beb5aE4F057577D0Ac"
+          },
+          {
+            "address": "0xb3389F3eDacDfD48603F2F06895A2B2A8a96952f"
+          },
+          {
+            "address": "0x395Fc9a7B8B2371721aacEBA07cf7AE23F55BA14"
+          }
+        ]
+      },
+      {
+        "prizePrefix": "$",
+        "prizeAmount": "50",
+        "prizeUnit": "MNT",
+        "walletList": [
+          {"address": "0x467Bf7c361427407FA58a9C47d0e62C673566Cba"}
+        ]
+      },
+      {
+        "prizePrefix": "",
+        "prizeAmount": "1",
+        "prizeUnit": "abETH",
+        "walletList": [
+          {
+            "address": "0x49f9EC1774AdCb6463fd5f4bB868592bea5793e2"
+          },
+          {
+            "address": "0x271EFb8fEAE9EdeF892a27b98e6B8Be5bF14Dd3A"
+          },
+          {
+            "address": "0xE89eCd87FE35FED95Ed21F86e604B61351bE646a"
+          },
+          {
+            "address": "0xD0675A14669A72c63e35454A0e66d1e1159c743c"
+          },
+          {
+            "address": "0xE430d0A7C6140447cA64C16ce09466C808Bd077b"
+          },
+          {
+            "address": "0xe55cA6D98E73e1D5Bd58F52202bE5449dCaD61f3"
+          },
+          {
+            "address": "0x63EAa24B95968Da04A2826B830853ba21de25Ac0"
+          },
+          {
+            "address": "0xf0bFb6749B3dFf9cdaEc4d7BDC7EFE52B79f706b"
+          },
+          {
+            "address": "0x52811dDe52488be7896f7DDd6328A8755a510941"
+          },
+          {
+            "address": "0xF78D2a0D33379686082CdB0c7b4541De9165d7b8"
+          }
+        ]
+      }
     ]
   },
   "leaderBoardWhiteList": [
