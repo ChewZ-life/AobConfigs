@@ -40,11 +40,11 @@
     }
   },
   "season2RenewedTask": {
-    "voteQuestStartTime": 1706536800000,
+    "voteQuestStartTime": 1708418532510,
     "entryTask": {
       "expired": true,
       "visible": true,
-      "revision": "1",
+      "revision": "2",
       "rewards": [
         {
           "amount": 0.2,
@@ -54,16 +54,22 @@
           "amount": 0.2,
           "unit": "abETH"
         }
+      ],
+      "season3Rewards": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        }
       ]
     },
     "voteQuestOne": {
       "expired": true,
-      "revision": "1",
+      "revision": "2",
       "points": 0.5
     },
     "voteQuestTwo": {
       "expired": true,
-      "revision": "1",
+      "revision": "2",
       "points": 1
     }
   },
