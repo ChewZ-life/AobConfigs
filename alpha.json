@@ -70,7 +70,7 @@
     "voteQuestTwo": {
       "expired": false,
       "revision": "2",
-      "points": 1
+      "points": 0.5
     }
   },
   "banners": {
