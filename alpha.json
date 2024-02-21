@@ -168,5 +168,8 @@
       }
     ]
   },
-  "leaderBoardWhiteList": []
+  "leaderBoardWhiteList": [],
+  "limitTimeReferral": {
+    "startTime": 1708418532510
+  }
 }
