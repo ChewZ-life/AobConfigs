@@ -63,12 +63,12 @@
       ]
     },
     "voteQuestOne": {
-      "expired": true,
+      "expired": false,
       "revision": "2",
       "points": 0.5
     },
     "voteQuestTwo": {
-      "expired": true,
+      "expired": false,
       "revision": "2",
       "points": 0.5
     }
