@@ -65,7 +65,19 @@
     "voteQuestOne": {
       "expired": false,
       "revision": "2",
-      "points": 0.6
+      "points": 0.6,
+      "newUserReward": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
+      ],
+      "oldUserReward": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        }
+      ]
     }
   },
   "banners": {
@@ -168,9 +180,11 @@
     "detectFingerprint": true,
     "startTime": 1708418532510,
     "endTime": 1710000000000,
-    "rewards": [{
-      "amount": 2,
-      "unit": "MNT"
-    }]
+    "rewards": [
+      {
+        "amount": 2,
+        "unit": "MNT"
+      }
+    ]
   }
 }
