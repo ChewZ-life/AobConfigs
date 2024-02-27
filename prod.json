@@ -476,7 +476,7 @@
   "limitTimeReferral": {
     "detectFingerprint": true,
     "startTime": 1708934400000,
-    "endTime": 1710000000000,
+    "endTime": 1710662400000,
     "rewards": [
       {
         "amount": 2,
