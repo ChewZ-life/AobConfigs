@@ -37,7 +37,7 @@
     "season2Retweet": {
       "expired": true,
       "visible": false,
-      "retweetId": "1750734097893523857",
+      "retweetId": "1762424913263202653",
       "retweetPartText": "Season 3 of AlphaOrBeta is taking off! Mark your calendars for Feb 26th, 2024.",
       "retweetFullText": "🚀 Season 3 of AlphaOrBeta is taking off! Mark your calendars for Feb 26th, 2024. This season, we're upping the game with 3 thrilling weeks of exploration, bigger bounties, and fresh rewards! Each week unveils more surprises—beyond $MNT, abETH, Whitelist, and so much more! Expect the unexpected."
     }
@@ -46,7 +46,7 @@
     "voteQuestStartTime": 1708934400000,
     "entryTask": {
       "expired": false,
-      "visible": false,
+      "visible": true,
       "revision": "2",
       "rewards": [
         {
