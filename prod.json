@@ -1,5 +1,8 @@
 {
   "myTasks": {
+    "shared": {
+      "batchSize": 200
+    },
     "limitedTimeOffer": {
       "visible": false,
       "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
@@ -35,16 +38,16 @@
       "expired": true,
       "visible": false,
       "retweetId": "1750734097893523857",
-      "retweetPartText": "Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th",
-      "retweetFullText": "🌌 Season 2 of AlphaOrBeta is live! From Jan 25th - Feb 8th, join the stellar journey for larger rewards and new partnerships. The first 25,000 participants will earn hefty @0xMantle rewards and a shot at the Mega Lucky Draw. #AlphaOrBetaSeason2 #EpicJourney #MantleCampaign"
+      "retweetPartText": "Season 3 of AlphaOrBeta is taking off! Mark your calendars for Feb 26th, 2024.",
+      "retweetFullText": "🚀 Season 3 of AlphaOrBeta is taking off! Mark your calendars for Feb 26th, 2024. This season, we're upping the game with 3 thrilling weeks of exploration, bigger bounties, and fresh rewards! Each week unveils more surprises—beyond $MNT, abETH, Whitelist, and so much more! Expect the unexpected."
     }
   },
   "season2RenewedTask": {
-    "voteQuestStartTime": 1706536800000,
+    "voteQuestStartTime": 1708934400000,
     "entryTask": {
-      "expired": true,
-      "visible": true,
-      "revision": "1",
+      "expired": false,
+      "visible": false,
+      "revision": "2",
       "rewards": [
         {
           "amount": 0.2,
@@ -54,12 +57,30 @@
           "amount": 0.2,
           "unit": "abETH"
         }
+      ],
+      "season3Rewards": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
       ]
     },
     "voteQuestOne": {
-      "expired": true,
-      "revision": "1",
-      "points": 0.5
+      "expired": false,
+      "revision": "2",
+      "points": 0.5,
+      "newUserReward": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
+      ],
+      "oldUserReward": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        }
+      ]
     },
     "voteQuestTwo": {
       "expired": true,
@@ -451,5 +472,16 @@
     "dd99c604-1565-47f2-98da-ba35b9f9bec1",
     "474648ab-2912-4baf-b30a-b4d34384a3aa",
     "28700114-dc0b-41db-a53e-9565facd9e52"
-  ]
+  ],
+  "limitTimeReferral": {
+    "detectFingerprint": true,
+    "startTime": 1708934400000,
+    "endTime": 1710662400000,
+    "rewards": [
+      {
+        "amount": 2,
+        "unit": "MNT"
+      }
+    ]
+  }
 }
