@@ -65,7 +65,19 @@
     "voteQuestOne": {
       "expired": false,
       "revision": "2",
-      "points": 0.5
+      "points": 0.5,
+      "newUserReward": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
+      ],
+      "oldUserReward": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        }
+      ]
     },
     "voteQuestTwo": {
       "expired": false,
