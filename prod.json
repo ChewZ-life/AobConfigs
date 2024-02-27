@@ -1,5 +1,8 @@
 {
   "myTasks": {
+    "shared": {
+      "batchSize": 200
+    },
     "limitedTimeOffer": {
       "visible": false,
       "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
@@ -44,7 +47,7 @@
     "entryTask": {
       "expired": true,
       "visible": true,
-      "revision": "1",
+      "revision": "2",
       "rewards": [
         {
           "amount": 0.2,
@@ -54,12 +57,30 @@
           "amount": 0.2,
           "unit": "abETH"
         }
+      ],
+      "season3Rewards": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
       ]
     },
     "voteQuestOne": {
-      "expired": true,
-      "revision": "1",
-      "points": 0.5
+      "expired": false,
+      "revision": "2",
+      "points": 0.5,
+      "newUserReward": [
+        {
+          "amount": 0.4,
+          "unit": "MNT"
+        }
+      ],
+      "oldUserReward": [
+        {
+          "amount": 0.2,
+          "unit": "MNT"
+        }
+      ]
     },
     "voteQuestTwo": {
       "expired": true,
@@ -451,5 +472,16 @@
     "dd99c604-1565-47f2-98da-ba35b9f9bec1",
     "474648ab-2912-4baf-b30a-b4d34384a3aa",
     "28700114-dc0b-41db-a53e-9565facd9e52"
-  ]
+  ],
+  "limitTimeReferral": {
+    "detectFingerprint": true,
+    "startTime": 1708418532510,
+    "endTime": 1710000000000,
+    "rewards": [
+      {
+        "amount": 2,
+        "unit": "MNT"
+      }
+    ]
+  }
 }
