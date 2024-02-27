@@ -43,7 +43,7 @@
     }
   },
   "season2RenewedTask": {
-    "voteQuestStartTime": 1706536800000,
+    "voteQuestStartTime": 1708934400000,
     "entryTask": {
       "expired": false,
       "visible": false,
@@ -475,7 +475,7 @@
   ],
   "limitTimeReferral": {
     "detectFingerprint": true,
-    "startTime": 1708418532510,
+    "startTime": 1708934400000,
     "endTime": 1710000000000,
     "rewards": [
       {
