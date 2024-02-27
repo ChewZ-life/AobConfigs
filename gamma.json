@@ -1,5 +1,8 @@
 {
   "myTasks": {
+    "shared": {
+      "batchSize": 200
+    },
     "limitedTimeOffer": {
       "visible": false,
       "LIMITED_OFFER_RETWEET_END_AT": 1705708800000,
