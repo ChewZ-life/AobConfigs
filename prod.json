@@ -45,7 +45,7 @@
   "season2RenewedTask": {
     "voteQuestStartTime": 1708934400000,
     "entryTask": {
-      "expired": false,
+      "expired": true,
       "visible": true,
       "revision": "2",
       "rewards": [
@@ -66,7 +66,7 @@
       ]
     },
     "voteQuestOne": {
-      "expired": false,
+      "expired": true,
       "revision": "2",
       "points": 0.5,
       "newUserReward": [
@@ -476,7 +476,7 @@
   "limitTimeReferral": {
     "detectFingerprint": true,
     "startTime": 1708934400000,
-    "endTime": 1710662400000,
+    "endTime": 1710125401589,
     "rewards": [
       {
         "amount": 2,
