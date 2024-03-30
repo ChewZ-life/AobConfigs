@@ -189,5 +189,8 @@
         "unit": "MNT"
       }
     ]
+  },
+  "bnbCampaign": {
+    "startTime": 1711786722864
   }
 }
