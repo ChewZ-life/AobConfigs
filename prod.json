@@ -483,5 +483,13 @@
         "unit": "MNT"
       }
     ]
+  },
+    "bnbCampaign": {
+    "startTime": 1711786722864,
+    "endTime": 1721786722864,
+    "tweetId": "1776159848515711270",
+    "tweetText": "S.T.A.Y",
+    "snapshotStartTime": 1711786722864,
+    "detectFingerprint": true
   }
 }
