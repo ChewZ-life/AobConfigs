@@ -459,20 +459,7 @@
       }
     ]
   },
-  "leaderBoardWhiteList": [
-    "9cc5edd1-beb5-429b-9833-3878c926caf7",
-    "90bb0cbf-11b4-4bbd-b92f-8deeb5d3ba4d",
-    "037c4d22-2cd2-4359-a0d3-63190bd38f01",
-    "16d7aeb1-9443-410a-8e15-3ac6eafc3c0a",
-    "ba2fc4d9-f3cc-4a14-8958-a4d7eb0fd17b",
-    "edc16b92-bf3c-4a02-8e62-467131526b3d",
-    "6f82091d-57a0-4f16-bf70-1d6eaec91264",
-    "1777f752-050c-4937-8031-be8a488247d8",
-    "a7e2c3f4-13ec-4f30-b812-8d3fad9d6a87",
-    "dd99c604-1565-47f2-98da-ba35b9f9bec1",
-    "474648ab-2912-4baf-b30a-b4d34384a3aa",
-    "28700114-dc0b-41db-a53e-9565facd9e52"
-  ],
+  "leaderBoardWhiteList": [],
   "limitTimeReferral": {
     "detectFingerprint": true,
     "startTime": 1708934400000,
