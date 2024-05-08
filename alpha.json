@@ -197,5 +197,16 @@
     "tweetText": "With a nod from @BinanceLabs MVB and 150,000+ users on board,",
     "snapshotStartTime": 1711786722864,
     "detectFingerprint": true
+  },
+  "bnbRebate":{
+    "currentRevision": 1,
+    "revisions":[{
+      "startTime": 1715149774281,
+      "endTime": 1715529600000,
+      "revision": 1,
+      "amount": 0.00003,
+      "spots": 100
+    }]
+    
   }
 }
