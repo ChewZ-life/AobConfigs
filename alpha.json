@@ -205,7 +205,8 @@
       "endTime": 1715529600000,
       "revision": 1,
       "amountNorm": 0.00003,
-      "spots": 100
+      "spots": 100,
+      "votesNeeded": 10
     }]
     
   }
