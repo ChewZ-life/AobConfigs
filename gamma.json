@@ -204,5 +204,18 @@
     "tweetText": "S.T.A.Y",
     "snapshotStartTime": 1711786722864,
     "detectFingerprint": true
+  },
+  "bnbRebate": {
+    "currentRevision": 1,
+    "revisions": [
+      {
+        "startTime": 1715149774281,
+        "endTime": 1715529600000,
+        "revision": 1,
+        "amountNorm": 0.00003,
+        "spots": 100,
+        "votesNeeded": 3
+      }
+    ]
   }
 }
