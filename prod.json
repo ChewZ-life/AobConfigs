@@ -483,11 +483,11 @@
     "currentRevision": 1,
     "revisions": [
       {
-        "startTime": 1715149774281,
-        "endTime": 1715529600000,
+        "startTime": 1715385600000,
+        "endTime": 1716076800000,
         "revision": 1,
         "amountNorm": 0.00003,
-        "spots": 100,
+        "spots": 1000,
         "votesNeeded": 10
       }
     ]
