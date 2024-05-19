@@ -208,6 +208,8 @@
       "spots": 100,
       "votesNeeded": 3
     }]
-    
+  },
+  "dailyAllocation": {
+    "allowWrite": false
   }
 }
