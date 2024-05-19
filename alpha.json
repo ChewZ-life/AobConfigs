@@ -209,7 +209,7 @@
       "votesNeeded": 3
     }]
   },
-  "dailyAllocation": {
+  "dailyAllocate": {
     "allowWrite": false
   }
 }
