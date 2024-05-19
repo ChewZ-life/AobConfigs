@@ -487,9 +487,9 @@
         "endTime": 1716076800000,
         "revision": 1,
         "amountNorm": 0.00003,
-        "spots": 750,
+        "spots": 0,
         "votesNeeded": 10
-      }
+      },
     ]
   }
 }
