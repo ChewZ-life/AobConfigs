@@ -210,6 +210,6 @@
     }]
   },
   "dailyAllocate": {
-    "allowWrite": true
+    "allowWrite": false
   }
 }
