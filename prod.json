@@ -493,6 +493,6 @@
     ]
   },
   "dailyAllocate": {
-    "allowWrite": false
+    "allowWrite": true
   }
 }
