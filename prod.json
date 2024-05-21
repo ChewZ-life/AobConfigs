@@ -491,5 +491,8 @@
         "votesNeeded": 10
       }
     ]
+  },
+  "dailyAllocate": {
+    "allowWrite": false
   }
 }
