@@ -489,6 +489,14 @@
         "amountNorm": 0.00003,
         "spots": 0,
         "votesNeeded": 10
+      },
+       {
+        "startTime": 1716945981397,
+        "endTime": 1717977600000,
+        "revision": 2,
+        "amountNorm": 0.00003,
+        "spots": 3000,
+        "votesNeeded": 5
       }
     ]
   },
