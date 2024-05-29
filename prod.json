@@ -480,7 +480,7 @@
     "detectFingerprint": true
   },
   "bnbRebate": {
-    "currentRevision": 1,
+    "currentRevision": 2,
     "revisions": [
       {
         "startTime": 1715385600000,
