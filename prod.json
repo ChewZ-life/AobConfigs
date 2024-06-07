@@ -480,7 +480,7 @@
     "detectFingerprint": true
   },
   "bnbRebate": {
-    "currentRevision": 2,
+    "currentRevision": 3,
     "revisions": [
       {
         "startTime": 1715385600000,
@@ -495,7 +495,15 @@
         "endTime": 1717977600000,
         "revision": 2,
         "amountNorm": 0.00003,
-        "spots": 2000,
+        "spots": 1000,
+        "votesNeeded": 5
+      },
+       {
+        "startTime": 1717760127236,
+        "endTime": 1718323200000,
+        "revision": 3,
+        "amountNorm": 0.00003,
+        "spots": 3000,
         "votesNeeded": 5
       }
     ]
